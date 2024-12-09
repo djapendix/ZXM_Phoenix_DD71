@@ -1,5 +1,5 @@
-# ZXM_Phoenix_DD71
-ZXM_Phoenix_DD71
+# ZXM_Phoenix_DD71_CPLD
+ZXM_Phoenix_DD71_CPLD
 
 Прошивка CPLD DD71 (`Тип CPLD: EPM3064ATC44`) для Феникса
 https://t.me/ZXM_Phoenix_Chat/1/11435
